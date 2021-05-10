@@ -1,0 +1,2 @@
+# googletrends
+A data analysis of categorized trending news searched on Google by people of various countries, publicly available through Google Trends and segregating it into major domains of interest:  Politics, Technology, Crime, Business, Sports, Entertainment, Health using a trained ML news classifier model. Analyzing the types of news consumed by the people of a particular country and comparing results with the world.
